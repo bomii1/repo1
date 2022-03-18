@@ -6,3 +6,7 @@ print(b)
 #question
 c='practice'
 print(c)
+
+import random
+yasick=['엽떡','닭발','치킨','피자']
+random.choice()
