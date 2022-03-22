@@ -8,5 +8,5 @@ c='practice'
 print(c)
 
 import random
-yasick=['엽떡','닭발','치킨','피자']
+yasick=['엽떡','닭발','치킨','피자','곱창','맥주']
 random.choice()
